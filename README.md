@@ -12,7 +12,7 @@ If you for some reason do want to use this project in your own website, here's a
 <script type="text/javascript" src="https://jfenn.me/Scrurl/scrurl.js"></script>
 ```
 
-### Start the Scrolly Thing
+#### Start the Scrurly Thing
 
 ```javascript
 Scrurl.display("a bunch of text", {
